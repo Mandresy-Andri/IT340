@@ -1,3 +1,3 @@
 # IT340 Data Structure assignments
 
-Implementation of various data structures 
+Implementation of various basic data structures and algorithms
